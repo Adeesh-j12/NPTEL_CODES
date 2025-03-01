@@ -1,3 +1,3 @@
 # NPTEL_codes
 This is my NPTL codes.
-Authore - Adeesh jain 
+Authore - Adeesh ji jain
