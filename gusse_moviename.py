@@ -1,6 +1,5 @@
 import random
-
-movies = ['anand', 'drishyam', 'nayak', 'gol maal', 'vikram vedha', 'chava', 'Titanic', 'avatar', 'kgf', 'bahubali', 'dangal']
+from guessDB import movies
 
 def create_question(movie):
     return ''.join(' ' if ch == ' ' else '*' for ch in movie)
